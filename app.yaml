@@ -1,0 +1,3 @@
+kind: wasmer.io/App.v0
+name: weavemn-cdn-starter-22c
+package: weavemn/cdn-starter-22c
